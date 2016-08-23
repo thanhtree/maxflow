@@ -1,4 +1,3 @@
-// Author: Sean Davis
 
 #include "NetDriver.h"
 #include "maxfinder.h"
